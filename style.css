@@ -49,6 +49,7 @@ body {
 
 .gauge {
 	height: 12px;
+	transition: all .3s ease;
 }
 
 .gaugeWrapper {
